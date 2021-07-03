@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="skins.mybutton2"
+	 width="141.446"
+	height="139.195" xmlns:e="http://ns.egret.com/eui">
+	<e:Image width="89.747" height="86.259" x="-0.487" y="1.632" source="疑问_png"/>
+</e:Skin>

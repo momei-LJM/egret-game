@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="skins.close"
+	 width="239.249"
+	height="238.077" xmlns:e="http://ns.egret.com/eui">
+	<e:Rect width="40.704" height="45.018" x="21" y="23" fillColor="0xFFFFFF"/>
+	<e:Image width="75.032" height="75.032" x="6.672" y="7.195" source="关闭_png"/>
+</e:Skin>

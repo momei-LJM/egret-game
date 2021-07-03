@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="skins.mybutton"
+	 width="110.353"
+	height="53.394" xmlns:e="http://ns.egret.com/eui">
+	<e:Rect width="78.034" height="77.143" x="3" y="0" ellipseWidth="107" strokeColor="0x000000" visible="true" fillColor="0x4BFFF8"/>
+	<e:Image width="66.77" height="61.937" x="7.613" y="4.807" source="音乐_png" visible="true"/>
+</e:Skin>

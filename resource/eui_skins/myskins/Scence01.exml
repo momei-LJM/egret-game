@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="skins.Scence01"
+	 width="640"
+	height="1136" xmlns:e="http://ns.egret.com/eui">
+	<e:Image width="640.018" height="1147.377" x="0" y="0" source="bg_jpg"/>
+	<e:Image id="egret_logo" source="egret_icon_png" x="276.57" y="96.086" anchorOffsetX="56" anchorOffsetY="77" scaleY="1"/>
+</e:Skin>

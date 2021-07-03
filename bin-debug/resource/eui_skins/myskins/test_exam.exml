@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="skins.test_exam"
+	 width="640"
+	height="1136" xmlns:e="http://ns.egret.com/eui">
+	<e:Rect width="1240.977" height="2254.361" x="-282.636" y="-183.826" fillColor="0xFFFFFF"/>
+	<e:Rect width="669.796" height="1141.612" x="0" y="0" visible="true" fillColor="0xFFFFFF"/>
+	<e:Label id="itemLabel" text="Label" x="172.727" y="361.532" width="390.974" height="89.141" textColor="0x00C3FF" textAlign="left" verticalAlign="middle"/>
+	<e:Button id="btnPre" label="上一题" x="13.824" y="704.329" skinName="skins.selet"/>
+	<e:Button id="btnNext" label="下一题" x="296.198" y="704.34" skinName="skins.selet"/>
+	<e:RadioButton id="itemA" label="RadioButton" x="176.422" y="485.333" value="A"/>
+	<e:RadioButton id="itemB" label="RadioButton" x="176.422" y="552.339" value="B"/>
+	<e:RadioButton id="itemC" label="RadioButton" x="176.422" y="618.34" value="C"/>
+	<e:RadioButton id="itemD" label="RadioButton" x="176.422" y="685.199" value="D"/>
+	<e:Button id="music" label="Button" x="101" y="75" skinName="skins.mybutton" width="78" height="78" anchorOffsetX="39" anchorOffsetY="39"/>
+</e:Skin>

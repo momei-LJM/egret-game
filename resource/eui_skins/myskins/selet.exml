@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="skins.selet"
+	 width="355.1"
+	height="395.259" xmlns:e="http://ns.egret.com/eui">
+	<e:Image source="btn_png" scale9Grid="105,156,278,180" x="0.612" y="3.477" width="344.621" height="392.154"/>
+	<e:Label id="labelDisplay" top="8" bottom="13.259000000000015" left="8" right="31.100000000000023" size="29" textColor="0xFFFFFF" verticalAlign="middle" textAlign="center" visible="true" text="11"/>
+</e:Skin>

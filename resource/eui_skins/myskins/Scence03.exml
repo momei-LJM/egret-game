@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="skins.Scence03"
+	 width="640"
+	height="1136" xmlns:e="http://ns.egret.com/eui">
+	<e:Rect width="1240.977" height="2254.361" x="-282.636" y="-183.826" visible="true" fillColor="0xFDFEFF"/>
+	<e:Button id="btnStart" label="开始答题" x="95" y="801" width="472.119" height="466.987" skinName="skins.ButtonSkin2"/>
+	<e:Button id="musicBtn" label="Button" x="101" y="75" width="78" height="78" skinName="skins.mybutton" anchorOffsetX="39" anchorOffsetY="39"/>
+	<e:Button id="tip" label="Button" x="561.631" y="1042.588" anchorOffsetX="45.504" anchorOffsetY="43.383" skinName="skins.mybutton2" width="86.686" height="85.306"/>
+	<e:Label text="养生知识问答" x="4.498" y="121.332" width="628.991" height="205.973" verticalAlign="middle" size="62.9" fontFamily="SimHei" textAlign="center" bold="true" backgroundColor="0x22ABFF" textColor="0x00ACFF"/>
+</e:Skin>

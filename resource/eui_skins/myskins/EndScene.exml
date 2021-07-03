@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="skins.EndScene"
+	 width="640"
+	height="1136" xmlns:e="http://ns.egret.com/eui">
+	<e:Rect width="1240.977" height="2254.361" x="-282.636" y="-183.826" fillColor="0xFFFFFF"/>
+	<e:Rect width="669.796" height="1141.612" x="0" y="0" visible="true" fillColor="0xFFFFFF"/>
+	<e:Label id="historyScore" text="Label" x="381" y="690.383" textColor="0xFF3737"/>
+	<e:Label text="历史最高" x="202.056" y="690.383" textColor="0xFF3737"/>
+	<e:Label text="score" x="202" y="465.604" textColor="0x00ACFF"/>
+	<e:Label id="score" text="Label" x="381" y="463.077" textColor="0x00ACFF"/>
+	<e:Label text="未答题" x="202" y="629.42" textColor="0xFF3737"/>
+	<e:Label id="no" text="Label" x="381" y="628.893" textColor="0xFF3737"/>
+	<e:Label text="答错" x="202" y="544.603" textColor="0xFF4141"/>
+	<e:Label id="wrong" text="Label" x="381" y="543.076" textColor="0xFF4040"/>
+	<e:Button id="btnReStart" label="重新开始" x="103.45" y="801" skinName="skins.ButtonSkin2"/>
+	<e:Label text="你的分数" x="321" y="278.365" width="233.647" height="111.522" fontFamily="DFKai-SB" anchorOffsetX="108.696" anchorOffsetY="47.554" verticalAlign="middle" textAlign="center" size="54.3" textColor="0x49C4FF"/>
+	<e:Button id="music" label="Button" x="101" y="75" skinName="skins.mybutton" width="78" height="78" anchorOffsetX="39" anchorOffsetY="39"/>
+</e:Skin>

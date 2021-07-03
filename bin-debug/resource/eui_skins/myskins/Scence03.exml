@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="skins.Scence03"
+	 width="640"
+	height="1136" xmlns:e="http://ns.egret.com/eui">
+	<e:Rect width="1240.977" height="2254.361" x="-282.636" y="-183.826" fillColor="0xFFFFFF"/>
+	<e:Button id="btnNext" label="btnNext" x="35.019" y="866" width="181.757" height="143.436" visible="false"/>
+	<e:Button id="btnPlay" label="btnPlay" x="442.908" y="875" width="163.091" height="124.586" visible="false"/>
+	<e:Button id="btnStop" label="btnStop" x="243.064" y="871" width="188.273" height="132.019" visible="false"/>
+	<e:Image x="0" y="0" height="1141.612" width="669.796" visible="true" source="bgc_png"/>
+	<e:Button id="btnStart" label="开始答题" x="95" y="801" width="472.119" height="466.987" skinName="skins.ButtonSkin2"/>
+	<e:Button id="musicBtn" label="Button" x="101" y="75" width="78" height="78" skinName="skins.mybutton" anchorOffsetX="39" anchorOffsetY="39"/>
+	<e:Button id="tip" label="Button" x="561.631" y="1042.588" anchorOffsetX="45.504" anchorOffsetY="43.383" skinName="skins.mybutton2" width="86.686" height="85.306"/>
+</e:Skin>

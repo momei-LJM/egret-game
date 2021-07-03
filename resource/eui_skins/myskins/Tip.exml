@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="skins.Tip"
+	 width="640"
+	height="1136" xmlns:e="http://ns.egret.com/eui">
+	<e:Rect width="1004.092" height="1761.77" x="-148.319" y="-111.961" fillAlpha="0.26" fillColor="0x4B4B4B"/>
+	<e:Rect width="506.96" height="369.429" x="70.061" y="343.479" fillColor="0xE7FBFF" ellipseWidth="57"/>
+	<e:Label text="总共五道养生相关的题目，" x="141.216" y="438.127" width="369.413" height="55.882" verticalAlign="middle" textAlign="left" fontFamily="DFKai-SB" textColor="0x003660"/>
+	<e:Button id="close" label="Button" x="519.308" y="319.83" width="91.324" height="90.502" anchorOffsetX="5.421" anchorOffsetY="3.599" skinName="skins.close"/>
+	<e:Label text="选择你认为正确的答案，" x="140" y="498.63" width="370.691" height="40.143" verticalAlign="middle" textColor="0x003660"/>
+	<e:Label text="答题结束后会有您的分数。" x="139.938" y="547.965" width="370.691" height="40.143" verticalAlign="middle" textColor="0x003660"/>
+</e:Skin>
